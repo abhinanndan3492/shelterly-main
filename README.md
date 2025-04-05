@@ -1,4 +1,4 @@
-# shelterly-main
+
 # Wanderlust Web Project Installation Guide
 
 This guide will walk you through the installation process for the Wanderlust web project. Follow the steps below to set up the project locally on your machine.
